@@ -32,9 +32,9 @@ This system empowers ISPs to efficiently manage their network operations and cus
 
 The following images demonstrate key functionalities of the system:
 
-![Demo Screenshot 1](docs/demo.dif)
-![Demo Screenshot 3](docs/3.jpeg)
-![Demo Screenshot 4](docs/4.jpeg)
+![Demo Dashboard](docs/demo.gif)
+![Demo Screenshot 1](docs/3.jpeg)
+![Demo Screenshot 2](docs/4.jpeg)
 
 ## Contact
 
